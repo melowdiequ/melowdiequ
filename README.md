@@ -1,13 +1,13 @@
-👋 Hello, I'm Gly!
+# **👋 Hello, I'm Gly!**
 
 I'm a 19-year-old Information Technology student specializing in Mobile and Web Application Development. 
 
-💻 What I Do
+### **💻 What I Do**
 
  - 🌐 Web and Mobile Development
  - 🎨 UI/UX Design
 
-🤝 Let's Connect !
+## **🤝 Let's Connect !**
 
 💌 Email: bermudezprincessglyza@gmail.com
 
