@@ -1,6 +1,6 @@
 # **👋 Hello, I'm Gly!**
 
-I'm a 19-year-old Information Technology student specializing in Mobile and Web Application Development. 
+I'm a 20-year-old Information Technology student specializing in Mobile and Web Application Development. 
 
 ### **💻 What I Do**
 
