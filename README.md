@@ -22,7 +22,7 @@ Hello! I'm Gly, a 20-year-old Bachelor of Science in Information Technology stud
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/melowdiequ/melowdiequ/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
