@@ -1,9 +1,7 @@
-# 🌸 Hi, I'm Glyza Bermudez! 🌸
+ # 🌸 Hi, I'm Glyza Bermudez! 🌸
 
 **`IT Student | Aspiring Web & Mobile Developer `**
 
-Hello! I'm Gly, a 20-year-old Bachelor of Science in Information Technology student specializing in Mobile and Web Application.
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -18,17 +16,6 @@ Hello! I'm Gly, a 20-year-old Bachelor of Science in Information Technology stud
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/melowdiequ/melowdiequ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/melowdiequ/melowdiequ/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake"
-       src="https://raw.githubusercontent.com/melowdiequ/melowdiequ/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
