@@ -11,14 +11,6 @@
 
 ---
 
-**🔥 Streak Stats**
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=melowdiequ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
----
-
 **💻 Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
