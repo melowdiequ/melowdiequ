@@ -29,7 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=melowdiequ&theme=gotham&hide_border=true&dates=1B94BC" alt="Your GitHub Streak" />
 </p>
 
-#### 🐍 My Commit Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/melowdiequ/melowdiequ/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
