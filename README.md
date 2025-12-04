@@ -1,42 +1,54 @@
-👋 Hi, I'm Glyza Bermudez!
-
-🌸 IT Student | Aspiring Web & Mobile Developer 🌸
-
-🚀 GitHub Overview
-
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/melowdiequ">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmelowdiequ%26show_icons%3Dtrue%26theme%3Dbuefy%26hide_border%3Dtrue%26count_private%3Dtrue"
-alt="Glyza Bermudez GitHub Stats"
-style="margin-bottom: 10px;" />
-</a>
 
+# 👋 Hi there, I'm Glyza Bermudez!
 
-<a href="https://www.google.com/search?q=https://github.com/melowdiequ">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmelowdiequ%26layout%3Dcompact%26theme%3Dbuefy%26hide_border%3Dtrue%26langs_count%3D6"
-alt="Top Languages" />
-</a>
-</div>
+🌱 Aspiring mobile and web developer
 
-💻 My Tech Stack & Tools
+---
 
-<div align="center">
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.is/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-</div>
+### 🛠️ My Toolbox: Tech Stack & Skills
 
 <p align="center">
-Made with 💖 for a fresh start!
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge"/>
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva Badge"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge"/>
 </p>
+
+---
+
+### ✨ My GitHub Activity
+
+#### 📈 My Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melowdiequ&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=melowdiequ&theme=gotham&hide_border=true&dates=1B94BC" alt="Your GitHub Streak" />
+</p>
+
+#### 🐍 My Commit Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/melowdiequ/melowdiequ/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+### ✉️ Get in Touch!
+
+* **Email:** bermudezprincessglyza@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/melowdiequ/
+
+<p align="center">
+  <a href="mailto:bermudezprincessglyza@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-F9A8D4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/melowdiequ/">
+    <img src="https://img.shields.io/badge/-LinkedIn-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+</div>
