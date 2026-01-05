@@ -18,19 +18,6 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge"/>
 </p>
 
----
-
-### ✨ My GitHub Activity
-
-#### 📈 My Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melowdiequ&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=melowdiequ&theme=gotham&hide_border=true&dates=1B94BC" alt="Your GitHub Streak" />
-</p>
-
----
-
 ### ✉️ Get in Touch!
 
 * **Email:** bermudezprincessglyza@gmail.com
