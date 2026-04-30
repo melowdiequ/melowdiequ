@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=140&section=header&text=Glyza%20Bermudez&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D8D&height=180&section=header&text=Glyza%20Bermudez&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
