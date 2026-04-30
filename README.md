@@ -1,37 +1,44 @@
 <div align="center">
 
-# 👋 Hi there, I'm Glyza Bermudez!
-
-🌱 Aspiring Mobile and Web Developer
-
----
-
-### 🛠️ My Toolbox: Tech Stack & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma Badge" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva Badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge" />
-</p>
-
----
-
-### ✉️ Get in Touch!
-
-**Email:** bermudezprincessglyza@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/melowdiequ/
-
-<p align="center">
-  <a href="mailto:bermudezprincessglyza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/melowdiequ/">
-    <img src="https://img.shields.io/badge/LinkedIn-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=140&section=header&text=Glyza%20Bermudez&fontSize=35&fontColor=ffffff" />
 
 </div>
+
+## About Me
+🌱 Currently learning mobile and web development  
+✨ Always improving one project at a time   
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-FFC0CB?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-FFD1DC?style=flat-square&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFE4E1?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-FFB6C1?style=flat-square&logo=openjdk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-FFC0CB?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FFE4E1?style=flat-square&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-FFC0CB?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FFD1DC?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-FFE4E1?style=flat-square&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notion-F8F8F8?style=flat-square&logo=notion&logoColor=black"/>
+</p>
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=melowdiequ&show_icons=true&hide_border=true&title_color=FFC0CB&icon_color=FFB6C1&text_color=ffffff&bg_color=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melowdiequ&layout=compact&hide_border=true&title_color=FFC0CB&text_color=ffffff&bg_color=0D1117"/>
+
+</div>
+
+
+## 💌 Connect
+<a href="mailto:bermudezprincessglyza@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/melowdiequ/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
