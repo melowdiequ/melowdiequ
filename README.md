@@ -28,9 +28,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=melowdiequ&show_icons=true&hide_border=true&title_color=FFC0CB&icon_color=FFB6C1&text_color=ffffff&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=melowdiequ&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melowdiequ&layout=compact&hide_border=true&title_color=FFC0CB&text_color=ffffff&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melowdiequ&layout=compact&theme=radical" />
 
 </div>
 
