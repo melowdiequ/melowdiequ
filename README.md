@@ -24,21 +24,3 @@
   <img src="https://img.shields.io/badge/GitHub-FFE4E1?style=flat-square&logo=github&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notion-F8F8F8?style=flat-square&logo=notion&logoColor=black"/>
 </p>
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=melowdiequ&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melowdiequ&layout=compact&theme=radical" />
-
-</div>
-
-
-## 💌 Connect
-<a href="mailto:bermudezprincessglyza@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/melowdiequ/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
